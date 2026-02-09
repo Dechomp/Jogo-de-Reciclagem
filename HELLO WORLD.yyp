@@ -1,0 +1,51 @@
+{
+  "$GMProject":"v1",
+  "%Name":"HELLO WORLD",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Certos","folderPath":"folders/Sprites/Certos.yy","name":"Certos","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Errados","folderPath":"folders/Sprites/Errados.yy","name":"Errados","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Mouse","folderPath":"folders/Sprites/Mouse.yy","name":"Mouse","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.14.3.217",
+  },
+  "name":"HELLO WORLD",
+  "resources":[
+    {"id":{"name":"objAnimal","path":"objects/objAnimal/objAnimal.yy",},},
+    {"id":{"name":"objLixo","path":"objects/objLixo/objLixo.yy",},},
+    {"id":{"name":"objMouse","path":"objects/objMouse/objMouse.yy",},},
+    {"id":{"name":"rmFase1","path":"rooms/rmFase1/rmFase1.yy",},},
+    {"id":{"name":"sprGarrafa","path":"sprites/sprGarrafa/sprGarrafa.yy",},},
+    {"id":{"name":"sprMouse","path":"sprites/sprMouse/sprMouse.yy",},},
+    {"id":{"name":"sprMouseClicando","path":"sprites/sprMouseClicando/sprMouseClicando.yy",},},
+    {"id":{"name":"sprOleo","path":"sprites/sprOleo/sprOleo.yy",},},
+    {"id":{"name":"sprPeixe","path":"sprites/sprPeixe/sprPeixe.yy",},},
+    {"id":{"name":"sprPolvo","path":"sprites/sprPolvo/sprPolvo.yy",},},
+    {"id":{"name":"sprSaco","path":"sprites/sprSaco/sprSaco.yy",},},
+    {"id":{"name":"sprTartaruga","path":"sprites/sprTartaruga/sprTartaruga.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"rmFase1","path":"rooms/rmFase1/rmFase1.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
