@@ -9,3 +9,11 @@ else if tipoImagem == 2{
 else{
 	sprite_index = sprOleo;
 }
+
+
+if variable_global_exists("quantLixo"){
+	global.quantLixo++;
+}
+else{
+	global.quantLixo = 1;
+}
